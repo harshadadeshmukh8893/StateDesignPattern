@@ -1,0 +1,15 @@
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\bin\Debug\net6.0\POCOnStateDesignPattern.exe
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\bin\Debug\net6.0\POCOnStateDesignPattern.deps.json
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\bin\Debug\net6.0\POCOnStateDesignPattern.runtimeconfig.json
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\bin\Debug\net6.0\POCOnStateDesignPattern.dll
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\bin\Debug\net6.0\POCOnStateDesignPattern.pdb
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.csproj.AssemblyReference.cache
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.AssemblyInfoInputs.cache
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.AssemblyInfo.cs
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.csproj.CoreCompileInputs.cache
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.dll
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\refint\POCOnStateDesignPattern.dll
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.pdb
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\POCOnStateDesignPattern.genruntimeconfig.cache
+D:\MonoDotNet03\session30\POCOnStateDesignPattern\POCOnStateDesignPattern\obj\Debug\net6.0\ref\POCOnStateDesignPattern.dll
